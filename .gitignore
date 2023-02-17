@@ -1,0 +1,4 @@
+# dependencies
+/node_modules
+note.md
+/backend(express)
