@@ -3,7 +3,7 @@
 ## Concept
 로그인 및 회원가입 기능과 블로그 포스팅 기능(CRUD)을 구현
 
-## Tech
+## Used Library
 - react(CRA)
 - react-router-dom(version6)
 - axios
